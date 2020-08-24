@@ -36,7 +36,7 @@ function carregarPontos() {
 			
 			var marker = new google.maps.Marker({
 				position: new google.maps.LatLng(ponto.Latitude, ponto.Longitude),
-				title: "Meu ponto personalizado! :-D",
+				title: ponto.Descricao,
 				icon: 'img/marcador.png'
 			});
 			
@@ -65,5 +65,43 @@ function carregarPontos() {
 	});
 	
 }
+function carregarPontos2() {
+	
+	$.getJSON('js/pontos2.json', function(pontos) {
+		
+		var latlngbounds = new google.maps.LatLngBounds();
+		
+		$.each(pontos, function(index, ponto2) {
+			
+			var marker = new google.maps.Marker({
+				position: new google.maps.LatLng(ponto2.Latitude, ponto2.Longitude),
+				title: ponto,
+				icon: 'img/1.png'
+			});
+			
+			var myOptions = {
+				content: "<p>" + ponto.Descricao + "</p>",
+				pixelOffset: new google.maps.Size(-150, 0)
+        	};
 
+			infoBox[ponto2.Id] = new InfoBox(myOptions);
+			infoBox[ponto2.Id].marker = marker;
+			
+			infoBox[ponto.Id].listener = google.maps.event.addListener(marker, 'click', function (e) {
+				abrirInfoBox(ponto2.Id, marker);
+			});
+			
+			markers.push(marker);
+			
+			latlngbounds.extend(marker.position);
+			
+		});
+		
+		var markerCluster = new MarkerClusterer(map, markers);
+		
+		map.fitBounds(latlngbounds);
+		
+	});
+	
+}
 carregarPontos();
