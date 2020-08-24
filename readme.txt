@@ -1,4 +1,4 @@
-Google Maps API v3: Mapa - Proposta de atentimento 
+Google Maps API v3: Mapa - Proposta de atentimento.
 
 Um pequeno projeto utilizando o Google Maps JavaScript API v3 e Google Maps Utility Library v3 para gerar um mapa para trabalhar com uma planilha. 
 
