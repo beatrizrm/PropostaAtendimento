@@ -3,8 +3,9 @@
 		"Id": 1,
         "Latitude": -7.039119, 
 		"Longitude": -35.630509,
-		"Descricao": "Alagoa Grande",
-		"icon": "img/1.png"
+		"Descricao": "Alagoa Grande ",
+		"icon": "img/marcador.png"
+
     },
     {
 		"Id": 2,

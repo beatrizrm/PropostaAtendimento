@@ -37,7 +37,8 @@ function carregarPontos() {
 			var marker = new google.maps.Marker({
 				position: new google.maps.LatLng(ponto.Latitude, ponto.Longitude),
 				title: ponto.Descricao,
-				icon: 'img/marcador.png'
+				icon: ponto.icon
+			
 			});
 			
 			var myOptions = {
@@ -76,7 +77,7 @@ function carregarPontos2() {
 			var marker = new google.maps.Marker({
 				position: new google.maps.LatLng(ponto2.Latitude, ponto2.Longitude),
 				title: ponto,
-				icon: 'img/1.png'
+				icon: 'img/marcador.png'
 			});
 			
 			var myOptions = {
@@ -105,3 +106,4 @@ function carregarPontos2() {
 	
 }
 carregarPontos();
+carregarPontos2()
