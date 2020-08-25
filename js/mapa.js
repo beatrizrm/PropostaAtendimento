@@ -26,9 +26,9 @@ function abrirInfoBox(id, marker) {
 	idInfoBoxAberto = id;
 }
 
-function carregarPontos() {
+function Area4() {
 	
-	$.getJSON('js/pontos.json', function(pontos) {
+	$.getJSON('js/area4.json', function(pontos) {
 		
 		var latlngbounds = new google.maps.LatLngBounds();
 		
@@ -36,8 +36,8 @@ function carregarPontos() {
 			
 			var marker = new google.maps.Marker({
 				position: new google.maps.LatLng(ponto.Latitude, ponto.Longitude),
-				title: ponto.Descricao,
-				icon: ponto.icon
+				title: ponto.cidade,
+				icon: 'img/5.png'
 			
 			});
 			
@@ -66,44 +66,5 @@ function carregarPontos() {
 	});
 	
 }
-function carregarPontos2() {
-	
-	$.getJSON('js/pontos2.json', function(pontos) {
-		
-		var latlngbounds = new google.maps.LatLngBounds();
-		
-		$.each(pontos, function(index, ponto2) {
-			
-			var marker = new google.maps.Marker({
-				position: new google.maps.LatLng(ponto2.Latitude, ponto2.Longitude),
-				title: ponto,
-				icon: 'img/marcador.png'
-			});
-			
-			var myOptions = {
-				content: "<p>" + ponto.Descricao + "</p>",
-				pixelOffset: new google.maps.Size(-150, 0)
-        	};
 
-			infoBox[ponto2.Id] = new InfoBox(myOptions);
-			infoBox[ponto2.Id].marker = marker;
-			
-			infoBox[ponto.Id].listener = google.maps.event.addListener(marker, 'click', function (e) {
-				abrirInfoBox(ponto2.Id, marker);
-			});
-			
-			markers.push(marker);
-			
-			latlngbounds.extend(marker.position);
-			
-		});
-		
-		var markerCluster = new MarkerClusterer(map, markers);
-		
-		map.fitBounds(latlngbounds);
-		
-	});
-	
-}
-carregarPontos();
-carregarPontos2()
+Area4();
