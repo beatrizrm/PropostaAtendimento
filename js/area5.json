@@ -1,0 +1,64 @@
+[
+	{
+		"Id": 1,
+        "Latitude": -7.09480576245307, 
+		"Longitude":  -38.1775818446374,
+		"Cidade": "Aguiar",
+		"Descricao": "<strong>Projeção Mercado</strong>"
+		
+
+    },
+    {
+		"Id": 2,
+        "Latitude": -6.78369514151856,
+        "Longitude": -38.0833382545419,
+		"Cidade": "Aparecida"
+    },
+    {
+		"Id": 3,
+        "Latitude":-6.45354779321651,
+        "Longitude":  -38.5488692212462,
+		"Cidade": "Bernardino Batista"
+    },
+  	{
+		"Id": 4,
+    	"Latitude": -7.42228214528533,
+    	"Longitude":  -38.2189508765067,
+		"Cidade": "Boa Ventura"
+  	},
+  	{
+		"Id": 5,
+    	"Latitude": -6.8158333333333,
+    	"Longitude":  -38.656111111111,
+		"Cidade": "Bom Jesus"
+	  },
+	  {
+		"Id": 6,
+    	"Latitude": -7.31076308185791,
+    	"Longitude":   -38.5164953050679,
+		"Cidade": "Bonito de Santa Fé"
+	  }, 
+	  {
+		"Id": 7,
+    	"Latitude": -6.92393585280371,
+    	"Longitude":   -38.6783031916558,
+		"Cidade": "Cachoeira dos Índios"
+	  },
+	  {
+		"Id": 8,
+    	"Latitude": -6.8904645,
+    	"Longitude":   -38.5605303718409,
+		"Cidade": "Cajazeiras"
+	  },
+	  {
+		"Id": 9,
+    	"Latitude": -7.56022508662484,
+    	"Longitude":   -38.5091579595304,
+		"Cidade": "Conceição"
+	  },
+	  {
+		"Id": 10,
+    	"Latitude": -7.53808510765584,
+    	"Longitude":   -38.2003914462447,
+		"Cidade": "Curral Velho"
+  	}]

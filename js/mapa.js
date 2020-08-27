@@ -7,7 +7,7 @@ function initialize() {
 	var latlng = new google.maps.LatLng(-6.94814040463241, -35.5454913506159);
 	
     var options = {
-        zoom: 5,
+        zoom: 2,
 		center: latlng,
         mapTypeId: google.maps.MapTypeId.ROADMAP
     };
@@ -26,9 +26,9 @@ function abrirInfoBox(id, marker) {
 	idInfoBoxAberto = id;
 }
 
-function Area4() {
+function Area2() {
 	
-	$.getJSON('js/area4.json', function(pontos) {
+	$.getJSON('js/area2.json', function(pontos) {
 		
 		var latlngbounds = new google.maps.LatLngBounds();
 		
@@ -36,8 +36,8 @@ function Area4() {
 			
 			var marker = new google.maps.Marker({
 				position: new google.maps.LatLng(ponto.Latitude, ponto.Longitude),
-				title: ponto.cidade,
-				icon: 'img/5.png'
+				title: ponto.Cidade,
+				icon: 'img/2.png'
 			
 			});
 			
@@ -67,4 +67,45 @@ function Area4() {
 	
 }
 
-Area4();
+function Area5() {
+	
+	$.getJSON('js/area5.json', function(pontos) {
+		
+		var latlngbounds = new google.maps.LatLngBounds();
+		
+		$.each(pontos, function(index, ponto) {
+			
+			var marker = new google.maps.Marker({
+				position: new google.maps.LatLng(ponto.Latitude, ponto.Longitude),
+				title: ponto.Cidade,
+				icon: 'img/5.png'
+			
+			});
+			
+			var myOptions = {
+				content: "<p>" + ponto.Descricao + "</p>",
+				pixelOffset: new google.maps.Size(-150, 0)
+        	};
+
+			infoBox[ponto.Id] = new InfoBox(myOptions);
+			infoBox[ponto.Id].marker = marker;
+			
+			infoBox[ponto.Id].listener = google.maps.event.addListener(marker, 'click', function (e) {
+				abrirInfoBox(ponto.Id, marker);
+			});
+			
+			markers.push(marker);
+			
+			latlngbounds.extend(marker.position);
+			
+		});
+		
+		var markerCluster = new MarkerClusterer(map, markers);
+		
+		map.fitBounds(latlngbounds);
+		
+	});
+	
+}
+Area2();
+Area5();
