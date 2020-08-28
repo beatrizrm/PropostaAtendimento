@@ -1,0 +1,87 @@
+[
+	{
+		"Id": 1,
+        "Latitude": -7.43299530218586, 
+		"Longitude":  -34.9119851554492,
+		"Cidade": "Alhandra",
+		"Descricao": ""
+    },
+	{
+		"Id": 2,
+        "Latitude": -7.132276485, 
+		"Longitude":  -34.9119851554492,
+		"Cidade": "Bayeux",
+		"Descricao": ""
+    },
+	{
+		"Id": 3,
+        "Latitude": -7.51428764137233, 
+		"Longitude": -34.9178501439554,
+		"Cidade": "Caaporã",
+		"Descricao": ""
+    }
+    ,
+	{
+		"Id": 4,
+        "Latitude": -6.96698306327964, 
+		"Longitude": -34.8394300208048,
+		"Cidade": "Cabedelo",
+		"Descricao": ""
+    }
+    ,
+	{
+		"Id": 5,
+        "Latitude": -7.26357182671599, 
+		"Longitude": -34.9071513370733,
+		"Cidade": "Conde",
+		"Descricao": ""
+    }
+    ,
+	{
+		"Id": 6,
+        "Latitude": -7.14133696188833, 
+		"Longitude": -35.0914891261586,
+		"Cidade": "Cruz do Espírito Santo",
+		"Descricao": ""
+    }
+    ,
+	{
+		"Id": 7,
+        "Latitude": -7.14938202, 
+		"Longitude":  -34.8733848135386,
+		"Cidade": "João Pessoa",
+		"Descricao": ""
+    }
+    ,
+	{
+		"Id": 8,
+        "Latitude": -6.89884933841366, 
+		"Longitude":  -34.8746090973938,
+		"Cidade": "Lucena",
+		"Descricao": ""
+    }
+    ,
+	{
+		"Id": 9,
+        "Latitude": -7.4015385, 
+		"Longitude":  -35.1131779827065,
+		"Cidade": "Pedras de Fogo",
+		"Descricao": ""
+    }
+    ,
+	{
+		"Id": 10,
+        "Latitude": -7.48241339603127, 
+		"Longitude":  -34.8139304142683,
+		"Cidade": "Pitimbu",
+		"Descricao": ""
+    },
+	{
+		"Id": 11,
+        "Latitude": -7.22079069750116, 
+		"Longitude":  -35.1316997924804,
+		"Cidade": "Santa Rita",
+		"Descricao": ""
+    }
+    
+]

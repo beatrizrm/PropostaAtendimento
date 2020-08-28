@@ -26,6 +26,46 @@ function abrirInfoBox(id, marker) {
 	idInfoBoxAberto = id;
 }
 
+function Area1() {
+	
+	$.getJSON('js/area1.json', function(pontos) {
+		
+		var latlngbounds = new google.maps.LatLngBounds();
+		
+		$.each(pontos, function(index, ponto) {
+			
+			var marker = new google.maps.Marker({
+				position: new google.maps.LatLng(ponto.Latitude, ponto.Longitude),
+				title: ponto.Cidade,
+				icon: 'img/1.png'
+			
+			});
+			
+			var myOptions = {
+				content: "<p>" + ponto.Descricao + "</p>",
+				pixelOffset: new google.maps.Size(-150, 0)
+        	};
+
+			infoBox[ponto.Id] = new InfoBox(myOptions);
+			infoBox[ponto.Id].marker = marker;
+			
+			infoBox[ponto.Id].listener = google.maps.event.addListener(marker, 'click', function (e) {
+				abrirInfoBox(ponto.Id, marker);
+			});
+			
+			markers.push(marker);
+			
+			latlngbounds.extend(marker.position);
+			
+		});
+		
+		var markerCluster = new MarkerClusterer(map, markers);
+		
+		map.fitBounds(latlngbounds);
+		
+	});
+	
+}
 function Area2() {
 	
 	$.getJSON('js/area2.json', function(pontos) {
@@ -107,5 +147,6 @@ function Area5() {
 	});
 	
 }
+Area1();
 Area2();
 Area5();
