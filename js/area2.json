@@ -31,4 +31,185 @@
     	"Latitude": -7.2630866,
     	"Longitude":  -36.242598315,
 		"Cidade": "Boa Vista"
-  	}]
+	  },
+  	{
+		"Id": 6,
+    	"Latitude": -748264791987131,
+    	"Longitude": -36.133404750711,
+		"Cidade": "Boqueirão"
+	  },
+  	{
+		"Id": 7,
+    	"Latitude":-7.49066987370998,
+    	"Longitude": -36.2843418898015,
+		"Cidade": "Cabaceiras"
+	  },
+  	{
+		"Id":8 ,
+    	"Latitude":-7.22149704 ,
+    	"Longitude":-35.8838591147815 ,
+		"Cidade": "Campina Grande"
+	  },
+  	{
+		"Id":9 ,
+    	"Latitude": -7.41961832073032,
+    	"Longitude": -36.0206588240689,
+		"Cidade": "Caturité"
+	  },
+  	{
+		"Id":10 ,
+    	"Latitude":-7.020685 ,
+    	"Longitude": -35.8585932869695,
+		"Cidade": "Esperança"
+	  },
+  	{
+		"Id": 11,
+    	"Latitude":-7.36306160444852 ,
+    	"Longitude": -35.7846088757702,
+		"Cidade": "Fagundes"
+	  },
+  	{
+		"Id": 12,
+    	"Latitude":-7.5829411773177 ,
+    	"Longitude": -35.7906509034521,
+		"Cidade": "Gado Bravo"
+	  },
+  	{
+		"Id":13 ,
+    	"Latitude":-7.29502691351019 ,
+    	"Longitude": -35.6176892168187,
+		"Cidade": "Ingá"
+	  },
+  	{
+		"Id": 14,
+    	"Latitude": -7.3309315,
+    	"Longitude": -35.3375333858727,
+		"Cidade": "Itabaiana"
+	  },
+  	{
+		"Id":15 ,
+    	"Latitude":-7.37495775502352 ,
+    	"Longitude":-35.6281612500039 ,
+		"Cidade": "Itatuba"
+	  },
+  	{
+		"Id":16 ,
+    	"Latitude": -7.37029077318249,
+    	"Longitude": -35.2394540486469,
+		"Cidade": "Juripiranga"
+	  },
+  	{
+		"Id": 17,
+    	"Latitude": -7.15841248855856,
+    	"Longitude":-35.8514401351463 ,
+		"Cidade": "Lagoa Seca"
+	  },
+  	{
+		"Id": 18,
+    	"Latitude": -7.18019947108161,
+    	"Longitude": -35.7375152076896,
+		"Cidade": "Massaranduba"
+	  },
+  	{
+		"Id":19 ,
+    	"Latitude":-7.12116834374255 ,
+    	"Longitude":-35.7709374162111 ,
+		"Cidade": "Matinhas"
+	  },
+  	{
+		"Id": 20,
+    	"Latitude": -7.30948053230429,
+    	"Longitude": -35.4824246020059,
+		"Cidade": "Mogeiro"
+	  },
+  	{
+		"Id": 21,
+    	"Latitude":-7.08909633845498 ,
+    	"Longitude": -35.9582754292669,
+		"Cidade": "Montadas"
+	  },
+  	{
+		"Id": 22,
+    	"Latitude":-7.64097882478663 ,
+    	"Longitude": -35.5561446826129,
+		"Cidade": "Natuba"
+	  },
+  	{
+		"Id": 23,
+    	"Latitude": -7.25988798491644,
+    	"Longitude": -35.2598804076248,
+		"Cidade": "Pilar"
+	  },
+  	{
+		"Id":24 ,
+    	"Latitude":-7.07861726936986 ,
+    	"Longitude": -36.0564422810101,
+		"Cidade": "Pocinhos"
+	  },
+  	{
+		"Id": 25,
+    	"Latitude": -7.1489066440629,
+    	"Longitude":-35.9584940731246 ,
+		"Cidade": "Puxinanã"
+	  },
+  	{
+		"Id": 26,
+    	"Latitude": -7.3607915,
+    	"Longitude":-35.8994339112229 ,
+		"Cidade": "Queimadas"
+	  },
+  	{
+		"Id": 27,
+    	"Latitude": -7.25059477327924,
+    	"Longitude": -35.6553876583291,
+		"Cidade": "Riachão do Bacamarte"
+	  },
+  	{
+		"Id": 28,
+    	"Latitude": -7.69029534454018,
+    	"Longitude": -36.1567097727418,
+		"Cidade": "Riacho de Santo Antônio"
+	  },
+  	{
+		"Id":29 ,
+    	"Latitude":-7.35535731371706 ,
+    	"Longitude": -35.4433017394971,
+		"Cidade": "Salgado de São Félix"
+	  },
+  	{
+		"Id":30 ,
+    	"Latitude":-7.74290596221598 ,
+    	"Longitude": -35.877474466628,
+		"Cidade": "Santa Cecília"
+	  },
+  	{
+		"Id": 31,
+    	"Latitude":-7.24712735721632 ,
+    	"Longitude": -35.3779610544874,
+		"Cidade": "São José dos Ramos"
+	  },
+  	{
+		"Id": 32,
+    	"Latitude":-7.24923353038705 ,
+    	"Longitude": -35.2104513918798,
+		"Cidade": "São Miguel de Taipu"
+	  },
+  	{
+		"Id": 33,
+    	"Latitude": -7.10094595524404,
+    	"Longitude":-35.8664139115223 ,
+		"Cidade": "São Sebastião de Lagoa de Roça"
+	  },
+  	{
+		"Id":34 ,
+    	"Latitude": -7.18254942468272,
+    	"Longitude": -35.6742704972443,
+		"Cidade": "Serra Redonda"
+	  },
+  	{
+		"Id":35 ,
+    	"Latitude":-7.69820632935525 ,
+    	"Longitude": -35.6714708228878,
+		"Cidade": "Umbuzeiro"
+	  }
+]
