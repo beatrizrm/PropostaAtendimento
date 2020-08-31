@@ -1,0 +1,590 @@
+[
+    {
+		"Id": 1,
+        "Latitude": -7.3043, 
+		"Longitude":-37.3826  ,
+		"Cidade": "Água Branca",
+		"Descricao": ""
+    },
+    {
+		"Id": 2,
+        "Latitude":-6.90469403776756 , 
+		"Longitude":  -36.0060933987894,
+		"Cidade": "Algodão de Jandaíra",
+		"Descricao": ""
+    },
+    {
+		"Id":3 ,
+        "Latitude":-7.5672115216128 , 
+		"Longitude": -37.0647752481212 ,
+		"Cidade": "Amparo",
+		"Descricao": ""
+    },
+    {
+		"Id": 4,
+        "Latitude": -7.12369501302357, 
+		"Longitude": -36.9435079583787 ,
+		"Cidade": "Areia de Baraúnas",
+		"Descricao": ""
+    },
+    {
+		"Id": 5,
+        "Latitude":-7.0763269436714 , 
+		"Longitude": -36.7331874760572 ,
+		"Cidade": "Assunção",
+		"Descricao": ""
+    },
+    {
+		"Id": 6,
+        "Latitude": -6.3834, 
+		"Longitude": -36.1513 ,
+		"Cidade": "Baraúna",
+		"Descricao": ""
+    },
+    {
+		"Id": 7,
+        "Latitude":-6.72025267755581 , 
+		"Longitude":  -36.0597726422183,
+		"Cidade": "Barra de Santa Rosa",
+		"Descricao": ""
+    },
+    {
+		"Id":8 ,
+        "Latitude":-6.18857499767009 , 
+		"Longitude": -37.5395024822564 ,
+		"Cidade": "Belém do Brejo do Cruz",
+		"Descricao": ""
+    },
+    {
+		"Id":9 ,
+        "Latitude":-6.3477076067963 , 
+		"Longitude": -37.5001626416753 ,
+		"Cidade": "Brejo do Cruz",
+		"Descricao": ""
+    },
+    {
+		"Id": 10,
+        "Latitude":-7.12847337694278 , 
+		"Longitude": -37.1582169542224 ,
+		"Cidade": "Cacimba de Areia",
+		"Descricao": ""
+    },
+    {
+		"Id":11 ,
+        "Latitude": -7.21235930264992, 
+		"Longitude":  -37.0604021093534,
+		"Cidade": "Cacimbas",
+		"Descricao": ""
+    },
+    {
+		"Id":12 ,
+        "Latitude": -6.96269281318218, 
+		"Longitude": -37.7991843341113 ,
+		"Cidade": "Cajazeirinhas",
+		"Descricao": ""
+    },
+    {
+		"Id": 13,
+        "Latitude": -7.89124209512659, 
+		"Longitude": -36.8316105814858 ,
+		"Cidade": "Camalaú",
+		"Descricao": ""
+    },
+    {
+		"Id":14 ,
+        "Latitude":-7.4336 , 
+		"Longitude":  -36.2932,
+		"Cidade": "Caraúbas",
+		"Descricao": ""
+    },
+    {
+		"Id": 15,
+        "Latitude": -7.12520978356176, 
+		"Longitude": -37.6107199033242 ,
+		"Cidade": "Catingueira",
+		"Descricao": ""
+    },
+    {
+		"Id":16 ,
+        "Latitude": -6.91230677729076, 
+		"Longitude":  -37.6039713346287,
+		"Cidade": "Condado",
+		"Descricao": ""
+    },
+    {
+		"Id": 17,
+        "Latitude":-7.79257077750369 , 
+		"Longitude": -36.6615328551699 ,
+		"Cidade": "Congo",
+		"Descricao": ""
+    },
+    {
+		"Id":18 ,
+        "Latitude": -7.01691828418342, 
+		"Longitude": -37.9455372751751 ,
+		"Cidade": "Coremas",
+		"Descricao": ""
+    },
+    {
+		"Id": 19,
+        "Latitude": -7.62879696062795, 
+		"Longitude": -36.6048295218776 ,
+		"Cidade": "Coxixola",
+		"Descricao": ""
+    },
+    {
+		"Id":20 ,
+        "Latitude":-6.86236060920264 , 
+		"Longitude": -36.3479297161771 ,
+		"Cidade": "Cubati",
+		"Descricao": ""
+    },
+    {
+		"Id": 21,
+        "Latitude":-6.48555530115429 , 
+		"Longitude": -36.1532081655002 ,
+		"Cidade": "Cuité",
+		"Descricao": ""
+    },
+    {
+		"Id": 22,
+        "Latitude": -6.63189740734812, 
+		"Longitude": -35.9099425357662 ,
+		"Cidade": "Damião",
+		"Descricao": ""
+    },
+    {
+		"Id": 23,
+        "Latitude":-7.29144753043202 , 
+		"Longitude": -37.0921693225256 ,
+		"Cidade": "Desterro",
+		"Descricao": ""
+    },
+    {
+		"Id":24 ,
+        "Latitude": -7.10799223236892, 
+		"Longitude": -37.7145859750777 ,
+		"Cidade": "Emas",
+		"Descricao": ""
+    },
+    {
+		"Id":25 ,
+        "Latitude": -6.40451585235458, 
+		"Longitude": -36.4520440619056 ,
+		"Cidade": "Frei Martinho",
+		"Descricao": ""
+    },
+    {
+		"Id":26 ,
+        "Latitude":-7.24622166093218 , 
+		"Longitude": -36.4862761217649 ,
+		"Cidade": "Gurjão",
+		"Descricao": ""
+    },
+    {
+		"Id": 27,
+        "Latitude":-7.38853726132228 , 
+		"Longitude": -37.5100748563998 ,
+		"Cidade": "Imaculada",
+		"Descricao": ""
+    },
+    {
+		"Id": 28,
+        "Latitude": -7.06536831063555, 
+		"Longitude": -36.5707010055171 ,
+		"Cidade": "Juazeirinho",
+		"Descricao": ""
+    },
+    {
+		"Id":29 ,
+        "Latitude": -6.9933376488561, 
+		"Longitude": -36.716441226086 ,
+		"Cidade": "Junco do Seridó",
+		"Descricao": ""
+    },
+    {
+		"Id":30 ,
+        "Latitude":-7.53430713843463 , 
+		"Longitude": -37.819264489008 ,
+		"Cidade": "Juru",
+		"Descricao": ""
+    },
+    {
+		"Id": 31,
+        "Latitude":-7.3790028227583 , 
+		"Longitude": -36.94862930397 ,
+		"Cidade": "Livramento",
+		"Descricao": ""
+    },
+    {
+		"Id": 32,
+        "Latitude":-7.25704909269706 , 
+		"Longitude": -37.428160994959 ,
+		"Cidade": "Mãe d'Água",
+		"Descricao": ""
+    },
+    {
+		"Id": 33,
+        "Latitude":-6.90718512349047 , 
+		"Longitude":  -37.5177757103802,
+		"Cidade": "Malta",
+		"Descricao": ""
+    },
+    {
+		"Id":34 ,
+        "Latitude":-7.70461414156368 , 
+		"Longitude": -38.1530716660803 ,
+		"Cidade": "Manaíra",
+		"Descricao": ""
+    },
+    {
+		"Id": 35,
+        "Latitude":-7.26593000193745 , 
+		"Longitude":  -37.3504338850628,
+		"Cidade": "Maturéia",
+		"Descricao": ""
+    },
+    {
+		"Id": 36,
+        "Latitude":-7.892217 , 
+		"Longitude": -37.1226806805604 ,
+		"Cidade": "Monteiro",
+		"Descricao": ""
+    },
+    {
+		"Id": 37,
+        "Latitude":-6.45613994183283 , 
+		"Longitude": -36.2024954255349 ,
+		"Cidade": "Nova Floresta",
+		"Descricao": ""
+    },
+    {
+		"Id": 38,
+        "Latitude": -7.478518, 
+		"Longitude":  -38.041977,
+		"Cidade": "Nova Olinda",
+		"Descricao": ""
+    },
+    {
+		"Id": 39,
+        "Latitude": -6.67660584264479, 
+		"Longitude": -36.4187129743523 ,
+		"Cidade": "Nova Palmeira",
+		"Descricao": ""
+    },
+    {
+		"Id": 40,
+        "Latitude":-7.22497264854926 , 
+		"Longitude": -37.7526855285604 ,
+		"Cidade": "Olho d'Água",
+		"Descricao": ""
+    },
+    {
+		"Id": 41,
+        "Latitude":-6.98822562229028 , 
+		"Longitude": -36.2436652193579 ,
+		"Cidade": "Olivedos",
+		"Descricao": ""
+    },
+    {
+		"Id":42 ,
+        "Latitude": -7.61865212451032, 
+		"Longitude":  -37.1543789425132,
+		"Cidade": "Ouro Velho",
+		"Descricao": ""
+    },
+    {
+		"Id": 43,
+        "Latitude": -7.31670010077819, 
+		"Longitude":  -36.6583244439251,
+		"Cidade": "Parari",
+		"Descricao": ""
+    },
+    {
+		"Id":44 ,
+        "Latitude":-7.0815, 
+		"Longitude": -37.0258 ,
+		"Cidade": "Passagem",
+		"Descricao": ""
+    },
+    {
+		"Id": 45,
+        "Latitude": -7.02449166821925, 
+		"Longitude": -37.2769133372926 ,
+		"Cidade": "Patos",
+		"Descricao": ""
+    },
+    {
+		"Id":46 ,
+        "Latitude":-6.59406157976211 , 
+		"Longitude": -37.6210556739873 ,
+		"Cidade": "Paulista",
+		"Descricao": ""
+    },
+    {
+		"Id": 47,
+        "Latitude":-7.4267044 , 
+		"Longitude": -38.077115515 ,
+		"Cidade": "Pedra Branca",
+		"Descricao": ""
+    },
+    {
+		"Id": 48,
+        "Latitude": -6.75788146064519, 
+		"Longitude": -36.4720503638462 ,
+		"Cidade": "Pedra Lavrada",
+		"Descricao": ""
+    },
+    {
+		"Id": 49,
+        "Latitude": -7.1925698759973, 
+		"Longitude": -37.926519001178 ,
+		"Cidade": "Piancó",
+		"Descricao": ""
+    },
+    {
+		"Id":50 ,
+        "Latitude":-6.51013565740654 , 
+		"Longitude":  -36.3470460251457,
+		"Cidade": "Picuí",
+		"Descricao": ""
+    },
+    {
+		"Id": 51,
+        "Latitude":-6.769855485 , 
+		"Longitude": -37.798267271363 ,
+		"Cidade": "Pombal",
+		"Descricao": ""
+    },
+    {
+		"Id":52 ,
+        "Latitude": -7.69698308434496, 
+		"Longitude": -37.0823339751871 ,
+		"Cidade": "Prata",
+		"Descricao": ""
+    },
+    {
+		"Id": 53,
+        "Latitude": -7.73386645898496, 
+		"Longitude":  -37.9936640096162,
+		"Cidade": "Princesa Isabel",
+		"Descricao": ""
+    },
+    {
+		"Id": 54,
+        "Latitude": -7.71812641014089, 
+		"Longitude": -37.8464456195457 ,
+		"Cidade": "Quixaba",
+		"Descricao": ""
+    },
+    {
+		"Id": 55,
+        "Latitude":-7.10303473308871 , 
+		"Longitude":  -36.8455028942862,
+		"Cidade": "Salgadinho",
+		"Descricao": ""
+    },
+    {
+		"Id":56 ,
+        "Latitude": -6.522, 
+		"Longitude":  -36.5507,
+		"Cidade": "Santa Luzia",
+		"Descricao": ""
+    },
+    {
+		"Id":57 ,
+        "Latitude":-7.08419170526247 , 
+		"Longitude": -37.4417177954698 ,
+		"Cidade": "Santa Teresinha",
+		"Descricao": ""
+    },
+    {
+		"Id":58 ,
+        "Latitude": -7.38764445972837, 
+		"Longitude": -37.9850430999296 ,
+		"Cidade": "Santana dos Garrotes",
+		"Descricao": ""
+    },
+    {
+		"Id": 59,
+        "Latitude":-7.22048912283316, 
+		"Longitude": -36.6309754330546 ,
+		"Cidade": "Santo André",
+		"Descricao": ""
+    },
+    {
+		"Id": 60,
+        "Latitude":-6.89030850899754 , 
+		"Longitude":  -37.7227213005654,
+		"Cidade": "São Bentinho",
+		"Descricao": ""
+    },
+    {
+		"Id": 61,
+        "Latitude":-6.291 , 
+		"Longitude": -37.2702 ,
+		"Cidade": "São Bento",
+		"Descricao": ""
+    },
+    {
+		"Id":62 ,
+        "Latitude":-7.63299070250314 , 
+		"Longitude":  -36.4359294005056,
+		"Cidade": "São Domingos do Cariri",
+		"Descricao": ""
+    },
+    {
+		"Id": 63,
+        "Latitude":-7.39020133575512 , 
+		"Longitude":-36.5315209358872  ,
+		"Cidade": "São João do Cariri",
+		"Descricao": ""
+    },
+    {
+		"Id": 64,
+        "Latitude": -8.08104288936475, 
+		"Longitude": -36.8457433215685 ,
+		"Cidade": "São João do Tigre",
+		"Descricao": ""
+    },
+    {
+		"Id":65 ,
+        "Latitude": -6.84417960846357, 
+		"Longitude": -37.3251148399789 ,
+		"Cidade": "São José de Espinharas",
+		"Descricao": ""
+    },
+    {
+		"Id": 66,
+        "Latitude":-7.7429694507639 , 
+		"Longitude": -38.0988027202559 ,
+		"Cidade": "São José de Princesa",
+		"Descricao": ""
+    },
+    {
+		"Id": 67,
+        "Latitude":-7.16091497735897 , 
+		"Longitude": -37.3092447284815 ,
+		"Cidade": "São José do Bonfim",
+		"Descricao": ""
+    },
+    {
+		"Id":68 ,
+        "Latitude": -6.21291534073982, 
+		"Longitude":  -37.3538296761784,
+		"Cidade": "São José do Brejo do Cruz",
+		"Descricao": ""
+    },
+    {
+		"Id": 69,
+        "Latitude":-6.77553140683712 , 
+		"Longitude": -36.7974932181972 ,
+		"Cidade": "São José do Sabugi",
+		"Descricao": ""
+    },
+    {
+		"Id": 70,
+        "Latitude": -7.39264269695839, 
+		"Longitude":  -36.8027778195065,
+		"Cidade": "São José dos Cordeiros",
+		"Descricao": ""
+    },
+    {
+		"Id": 71,
+        "Latitude": -6.93022837139016, 
+		"Longitude":  -37.0948573852401,
+		"Cidade": "São Mamede",
+		"Descricao": ""
+    },
+    {
+		"Id": 72,
+        "Latitude": -8.15711875468474, 
+		"Longitude": -37.0084169780022 ,
+		"Cidade": "São Sebastião do Umbuzeiro",
+		"Descricao": ""
+    },
+    {
+        "Id": 73,
+        "Latitude": -6.93333, 
+        "Longitude": -36.4 ,
+        "Cidade": "São Vicente do Seridó",
+        "Descricao": ""
+    },
+    {
+        "Id": 74,
+        "Latitude": -7.4805025244756, 
+        "Longitude": -36.6556668629229,
+        "Cidade": "Serra Branca",
+        "Descricao": ""
+    },
+    {
+        "Id": 75,
+        "Latitude": -7.05874137777625, 
+        "Longitude": -36.362664860377 ,
+        "Cidade": "Soledade",
+        "Descricao": ""
+    },
+    {
+        "Id": 76,
+        "Latitude": -6.76752752888267, 
+        "Longitude": -36.2482238788383 ,
+        "Cidade": "Sossêgo",
+        "Descricao": ""
+    },
+    {
+        "Id": 77,
+        "Latitude": -7.67105361514705, 
+        "Longitude": -36.8802761457321,
+        "Cidade": "Sumé",
+        "Descricao": ""
+    },
+    {
+        "Id": 78,
+        "Latitude": -7.20953935099688, 
+        "Longitude": -36.8289985342818 ,
+        "Cidade": "Taperoá",
+        "Descricao": ""
+    },
+    {
+        "Id": 79,
+        "Latitude": -7.63570844619416, 
+        "Longitude": -37.8785919324605 ,
+        "Cidade": "Tavares",
+        "Descricao": ""
+    },
+    {
+        "Id": 80,
+        "Latitude": -7.22370290861476, 
+        "Longitude": -37.2515615776267 ,
+        "Cidade": "Teixeira",
+        "Descricao": ""
+    },
+    {
+        "Id": 81,
+        "Latitude": -6.93826040293171, 
+        "Longitude": -36.6279998744085,
+        "Cidade": "Tenório",
+        "Descricao": ""
+    },
+    {
+        "Id": 82,
+        "Latitude": -6.771638, 
+        "Longitude": -36.990932 ,
+        "Cidade": "Várzea",
+        "Descricao": ""
+    },
+    {
+        "Id": 83,
+        "Latitude":-6.74068727242421, 
+        "Longitude": -37.5679145327464,
+        "Cidade": "Vista Serrana",
+        "Descricao": ""
+    },
+    {
+        "Id": 84,
+        "Latitude":-8.0768741972494, 
+        "Longitude": -37.0935519728886 ,
+        "Cidade": "Zabelê",
+        "Descricao": ""
+    }
+]
