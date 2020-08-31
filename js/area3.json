@@ -1,0 +1,331 @@
+[
+    {
+		"Id": 1,
+        "Latitude":-7.036775 , 
+		"Longitude": -35.6338919827495 ,
+		"Cidade": "Alagoa Grande",
+		"Descricao": ""
+    },
+    {
+		"Id":2 ,
+        "Latitude": -6.94814040463241, 
+		"Longitude":  -35.5454913506159,
+		"Cidade": "Alagoinha",
+		"Descricao": ""
+    },
+    {
+		"Id": 3,
+        "Latitude": -6.85169661748309, 
+		"Longitude": -35.3832990883057 ,
+		"Cidade": "Araçagi",
+		"Descricao": ""
+    },
+    {
+		"Id": 4,
+        "Latitude":-6.82619172120958 , 
+		"Longitude": -35.7595417215504 ,
+		"Cidade": "Arara",
+		"Descricao": ""
+    },
+    {
+		"Id": 5,
+        "Latitude": -6.53144702131672 , 
+		"Longitude":  -35.7359805119437,
+		"Cidade": "Araruna",
+		"Descricao": ""
+    },
+    {
+		"Id":6 ,
+        "Latitude":-6.965515 , 
+		"Longitude": -35.7033914011072 ,
+		"Cidade": "Areia",
+		"Descricao": ""
+    },
+    {
+		"Id":7 ,
+        "Latitude": -6.67952912303058, 
+		"Longitude": -34.9499310949655 ,
+		"Cidade": "Baía da Traição",
+		"Descricao": ""
+    },
+    {
+		"Id": 8,
+        "Latitude": -6.74963727499996, 
+		"Longitude":  -35.6315999027685,
+		"Cidade": "Bananeiras",
+		"Descricao": ""
+    },
+    {
+		"Id":9 ,
+        "Latitude": -6.73469, 
+		"Longitude": -35.5174 ,
+		"Cidade": "Belém",
+		"Descricao": ""
+    },
+    {
+		"Id": 10,
+        "Latitude": -6.80430588310093, 
+		"Longitude": -35.5993759656005 ,
+		"Cidade": "Borborema",
+		"Descricao": ""
+    },
+    {
+		"Id": 11,
+        "Latitude":-6.64001674704108 , 
+		"Longitude":  -35.7928209013797,
+		"Cidade": "Cacimba de Dentro",
+		"Descricao": ""
+    },
+    {
+		"Id": 12,
+        "Latitude":-6.61746979091996 , 
+		"Longitude": -35.4691142820996 ,
+		"Cidade": "Caiçara",
+		"Descricao": ""
+    },
+    {
+		"Id": 13,
+        "Latitude": -7.17175143704308, 
+		"Longitude": -35.3423820919597 ,
+		"Cidade": "Caldas Brandão",
+		"Descricao": ""
+    },
+    {
+		"Id": 14,
+        "Latitude":-6.91084437486816 , 
+		"Longitude":  -35.1677387140512,
+		"Cidade": "Capim",
+		"Descricao": ""
+    },
+    {
+		"Id": 15,
+        "Latitude":-6.78376032573468 , 
+		"Longitude": -35.8163048294656 ,
+		"Cidade": "Casserengue",
+		"Descricao": ""
+    },
+    {
+		"Id": 16,
+        "Latitude": -6.91415747337448, 
+		"Longitude": -35.2528248925397 ,
+		"Cidade": "Cuité de Mamanguape",
+		"Descricao": ""
+    },
+    {
+		"Id": 17,
+        "Latitude":-6.89581374261491 , 
+		"Longitude": -35.5257412326659 ,
+		"Cidade": "Cuitegi",
+		"Descricao": ""
+    },
+    {
+		"Id": 18,
+        "Latitude":-6.71743002924733 , 
+		"Longitude": -35.2670572687864 ,
+		"Cidade": "Curral de Cima",
+		"Descricao": ""
+    },
+    {
+		"Id": 19,
+        "Latitude":-6.60212273515188, 
+		"Longitude": -35.6225406506041 ,
+		"Cidade": "Dona Inês",
+		"Descricao": ""
+    },
+    {
+		"Id": 20,
+        "Latitude":-6.68813295468359 , 
+		"Longitude": -35.4181768047992 ,
+		"Cidade": "Duas Estradas",
+		"Descricao": ""
+    },
+    {
+		"Id": 21,
+        "Latitude": -6.852715, 
+		"Longitude":  -35.4899649848849,
+		"Cidade": "Guarabira",
+		"Descricao": ""
+    },
+    {
+		"Id":22 ,
+        "Latitude": -7.12321566843337, 
+		"Longitude":  -35.4281860624289,
+		"Cidade": "Gurinhém",
+		"Descricao": ""
+    },
+    {
+		"Id": 23,
+        "Latitude": -6.8299201630414, 
+		"Longitude":  -35.246295714605,
+		"Cidade": "Itapororoca",
+		"Descricao": ""
+    },
+    {
+		"Id": 24,
+        "Latitude":-6.6129685867326 , 
+		"Longitude": -35.2942824484025 ,
+		"Cidade": "Jacaraú",
+		"Descricao": ""
+    },
+    {
+		"Id":25 ,
+        "Latitude": -7.1663446273336, 
+		"Longitude": -35.5911781067138 ,
+		"Cidade": "Juarez Távora",
+		"Descricao": ""
+    },
+    {
+		"Id": 26,
+        "Latitude": -6.67059904965351, 
+		"Longitude": -35.3770436482357 ,
+		"Cidade": "Lagoa de Dentro",
+		"Descricao": ""
+    },
+    {
+		"Id": 27,
+        "Latitude": -6.61537142228734, 
+		"Longitude":  -35.4432993555945,
+		"Cidade": "Logradouro",
+		"Descricao": ""
+    },
+    {
+		"Id":28 ,
+        "Latitude":-6.83371514693319 , 
+		"Longitude":  -35.1238932020901,
+		"Cidade": "Mamanguape",
+		"Descricao": ""
+    },
+    {
+		"Id": 29,
+        "Latitude": -6.77005417404741, 
+		"Longitude":  -35.0139243934696,
+		"Cidade": "Marcação",
+		"Descricao": ""
+    },
+    {
+		"Id": 30,
+        "Latitude":-7.056384 , 
+		"Longitude": -35.3185424166403 ,
+		"Cidade": "Mari",
+		"Descricao": ""
+    },
+    {
+		"Id": 31,
+        "Latitude":-6.60051865435005 , 
+		"Longitude": -35.0485576738377 ,
+		"Cidade": "Mataraca",
+		"Descricao": ""
+    },
+    {
+		"Id": 32,
+        "Latitude": -7.0128, 
+		"Longitude": -35.2743 ,
+		"Cidade": "Mulungu",
+		"Descricao": ""
+    },
+    {
+		"Id": 33,
+        "Latitude": -6.64447149726608, 
+		"Longitude":  -35.2930058538096,
+		"Cidade": "Pedro Régis",
+		"Descricao": ""
+    },
+    {
+		"Id": 34,
+        "Latitude":-6.42 , 
+		"Longitude": -35.3654 ,
+		"Cidade": "Pilões",
+		"Descricao": ""
+    },
+    {
+		"Id": 35,
+        "Latitude":-6.84056878304328 , 
+		"Longitude":  -35.530585704033,
+		"Cidade": "Pilõezinhos",
+		"Descricao": ""
+    },
+    {
+		"Id": 36,
+        "Latitude": -6.78080009845509, 
+		"Longitude": -35.4977157927507 ,
+		"Cidade": "Pirpirituba",
+		"Descricao": ""
+    },
+    {
+		"Id": 37,
+        "Latitude": -6.96629295198897, 
+		"Longitude": -35.7958331901249 ,
+		"Cidade": "Remígio",
+		"Descricao": ""
+    },
+    {
+		"Id": 38,
+        "Latitude":-6.3236 , 
+		"Longitude": -35.3744 ,
+		"Cidade": "Riachão",
+		"Descricao": ""
+    },
+    {
+		"Id": 39,
+        "Latitude": -7.15150361574026, 
+		"Longitude": -35.2612426920122 ,
+		"Cidade": "Riachão do Poço",
+		"Descricao": ""
+    },
+    {
+		"Id": 40,
+        "Latitude": -6.8084485, 
+		"Longitude": -35.0788522259515 ,
+		"Cidade": "Rio Tinto",
+		"Descricao": ""
+    },
+    {
+		"Id": 41,
+        "Latitude": -7.087111, 
+		"Longitude": -35.2304326165497 ,
+		"Cidade": "Sapé",
+		"Descricao": ""
+    },
+    {
+		"Id":42 ,
+        "Latitude": -6.68551765005369, 
+		"Longitude": -35.4427388368849 ,
+		"Cidade": "Serra da Raiz",
+		"Descricao": ""
+    },
+    {
+		"Id": 43,
+        "Latitude":-6.81708894284731 , 
+		"Longitude":  -35.6441425707571,
+		"Cidade": "Serraria",
+		"Descricao": ""
+    },
+    {
+		"Id": 44,
+        "Latitude": -6.75079754596171, 
+		"Longitude": -35.4417507457045 ,
+		"Cidade": "Sertãozinho",
+		"Descricao": ""
+    },
+    {
+		"Id":45 ,
+        "Latitude":-7.14457561363735 , 
+		"Longitude": -35.2381954790313 ,
+		"Cidade": "Sobrado",
+		"Descricao": ""
+    },
+    {
+		"Id":46 ,
+        "Latitude": -6.7598975, 
+		"Longitude":  -35.6561584077255,
+		"Cidade": "Solânea",
+		"Descricao": ""
+    },
+    {
+		"Id": 47,
+        "Latitude":-6.48891694245472 , 
+		"Longitude": -35.6388366564942 ,
+		"Cidade": "Tacima",
+		"Descricao": ""
+    }
+]
